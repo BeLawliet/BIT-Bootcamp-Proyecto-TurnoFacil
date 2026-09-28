@@ -1,0 +1,14 @@
+{
+  "name": "TurnoFacil-Backend",
+  "version": "1.0.0",
+  "description": "",
+  "types": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
